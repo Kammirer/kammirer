@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me :<br><br>🛠️ I am a 1C and C++ Developer from Ukraine.<br><br>⚡ In my free time i learning C++ and Unreal Engine 5.<br><br>💛 I love computer graphics and computer games.
+🛠️ I am a 1C and C++ Developer from Ukraine.<br><br>⚡ In my free time i learning C++ and Unreal Engine 5.<br><br>💛 I love computer graphics and computer games.
 
 
 ## 🌐 Socials:
